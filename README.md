@@ -1,1 +1,15 @@
-EventPlanner
+# EventPlanner
+
+![Splash](/Images/Screenshot%202019-10-27%20at%2017.26.51.png) 
+![View Events](/Images/Screenshot%202019-10-27%20at%2017.27.51.png)
+![View Events](/Images/Screenshot%202019-10-27%20at%2017.28.13.png)
+![View Event](/Images/Screenshot%202019-10-27%20at%2017.29.13.png)
+![View Event](/Images/Screenshot%202019-10-27%20at%2017.29.36.png)
+![Create Event](/Images/Screenshot%202019-10-27%20at%2017.31.08.png)
+![Create Event](/Images/Screenshot%202019-10-27%20at%2017.31.37.png)
+![Create Event](/Images/Screenshot%202019-10-27%20at%2017.31.55.png)
+![Create Event](/Images/Screenshot%202019-10-27%20at%2017.33.13.png)
+![Dialog](/Images/Screenshot%202019-10-27%20at%2017.33.42.png)
+![Camera Capture](/Images/Screenshot%202019-10-27%20at%2017.35.02.png)
+![Camera Capture](/Images/Screenshot%202019-10-27%20at%2017.35.32.png)
+![Contact Filtering](/Images/Screenshot%202019-10-27%20at%2017.36.09.png)
