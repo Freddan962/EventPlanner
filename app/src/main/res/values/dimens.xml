@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="mtrl_card_spacing">8dp</dimen>
+
+    <dimen name="toolbar_collapsing_height">150dp</dimen>
+    <dimen name="create_event_time_margin">8dp</dimen>
+</resources>

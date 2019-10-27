@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.piasy:BigImageViewer:1.6.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c9be120c37458b129f6aed9dc0118b7d/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c9be120c37458b129f6aed9dc0118b7d/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.piasy/BigImageViewer/1.6.0/fcf5dd26ca7f69ee03ce4fe7d8978eec549fa3cf/BigImageViewer-1.6.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

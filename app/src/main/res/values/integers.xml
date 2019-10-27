@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="view_events_view_button_margin_top">75</integer>
+    <integer name="view_events_fill_events_time_ms">500</integer>
+    <integer name="sms_contact_picker_fill_contacts_time_ms">500</integer>
+    <integer name="splash_screen_logo_duration">3000</integer>
+    <integer name="tag_event_uid">0</integer>
+    <integer name="tag_event_photo">1</integer>
+    <integer name="tag_contact_name">2</integer>
+    <integer name="seeder_event_photo_photos_per_event">5</integer>
+    <integer name="event_photo_thumbnail_size">256</integer>
+</resources>

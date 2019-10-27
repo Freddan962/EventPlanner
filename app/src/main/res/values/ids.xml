@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="contactFinderStatus"/>
+    <item type="id" name="event_fab_action_share_sms"/>
+    <item type="id" name="event_fab_action_edit_event"/>
+    <item type="id" name="event_fab_action_delete_event"/>
+    <item type="id" name="event_fab_action_calendary_entry"/>
+</resources>

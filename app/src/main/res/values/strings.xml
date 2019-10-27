@@ -1,0 +1,86 @@
+<resources>
+    <string name="app_name">Event Planner</string>
+    <string name="button_view_events">View Events</string>
+    <string name="button_create_event">Create Event</string>
+    <string name="button_exit_application">Exit</string>
+
+    <string name="create_event_navbar_title">Create Event</string>
+    <string name="create_event_text_name">Name</string>
+    <string name="create_event_field_name_hint">Name</string>
+    <string name="create_event_field_start_time_hint">Start Time</string>
+    <string name="create_event_button_start_time_pick_date">Pick Date</string>
+    <string name="create_event_button_start_time_pick_time">Pick Time</string>
+    <string name="create_event_field_end_time_hint">End Time</string>
+    <string name="create_event_button_end_time_pick_date">Pick Date</string>
+    <string name="create_event_button_end_time_pick_time">Pick Time</string>
+    <string name="create_event_field_phone_number_hint">Phone Number</string>
+    <string name="create_event_field_email_hint">Email</string>
+    <string name="create_event_field_description_hint">Description</string>
+    <string name="create_event_button_description_record">Record description with microphone</string>
+    <string name="create_event_button_paste">Paste description from clipboard</string>
+    <string name="create_event_field_home_page_hint">Home Page</string>
+    <string name="create_event_field_youtube_hint">Youtube video URL</string>
+    <string name="create_event_button_create">Create</string>
+    <string name="create_event_button_reset">Reset</string>
+    <string name="create_event_error_field_empty">Field can not be empty!</string>
+    <string name="create_event_error_field_start_time">Start time must be chosen!</string>
+    <string name="create_event_error_field_end_time">End time must be chosen!</string>
+    <string name="create_event_sucess">Your new event has been created!</string>
+    <string name="create_event_failed">Unable to create event!</string>
+    <string name="create_event_update_button">Update</string>
+    <string name="create_event_return_button">Return</string>
+    <string name="create_event_updated_event">Event has been updated…</string>
+    <string name="create_event_invalid_youtube_url">Invalid video URL!</string>
+
+
+    <string name="view_events_button_open">Open</string>
+    <string name="view_events_title">Event Planner</string>
+    <string name="view_events_get_started_part_one">You haven\'t added</string>
+    <string name="view_events_get_started_part_two">any events yet</string>
+    <string name="view_events_daily_events_notification_title">Today:</string>
+    <string name="view_events_daily_events_notification_content">\u0020scheduled event(s)</string>
+
+    <string name="dashboard_button_events">View Events</string>
+    <string name="dashboard_button_exit">Exit</string>
+
+    <string name="event_time_title">Date &amp; Time</string>
+    <string name="event_contact_title">Number</string>
+    <string name="event_homepage_title">Website</string>
+    <string name="event_mail_title">Mail</string>
+    <string name="event_description_title">EVENT DETAILS</string>
+    <string name="event_button_copy">Copy</string>
+    <string name="event_description_read_loud">READ</string>
+    <string name="event_photo_title">PHOTOS</string>
+    <string name="event_description_placeholder">Quisque accumsan, magna vitae ornare rutrum, neque nisi tempus orci, vel sodales risus ligula non leo. Vivamus auctor ultricies tortor. Ut rhoncus ex mi. Nullam consectetur elit scelerisque nisi malesuada, et porttitor nisl imperdiet. Sed faucibus iaculis metus ut pharetra. Duis vel pellentesque libero. Nullam porttitor metus eget vehicula imperdiet. Ut condimentum, tellus eget congue ornare, eros dui accumsan leo, et ultrices nunc velit a felis. Duis diam dolor, vehicula in bibendum ac, dictum vitae magna. Proin non nisl porta, porttitor purus at, efficitur sapien. Sed vel urna quis orci lobortis pretium.</string>
+    <string name="event_youtube_title">VIDEO</string>
+    <string name="event_share_sms">Share with SMS</string>
+    <string name="event_photo_removed">Removed photo</string>
+    <string name="event_photo_press_to_remove">Press a photo to remove...</string>
+    <string name="event_website_failed_to_open_internet">Can\'t open website, check your internet connection...</string>
+    <string name="event_fab_share_event_sms_label">Share with SMS</string>
+    <string name="event_fab_delete_event_label">Delete Event</string>
+    <string name="event_fab_edit_event_label">Edit Event</string>
+    <string name="event_fab_create_calendar_entry_label">Add To Calendar</string>
+    <string name="event_fab_remove_calendar_entry_label">Remove From Calendar</string>
+    <string name="event_require_calendar_permission">Operation requires calendar permission…</string>
+    <string name="event_calendar_add_event_sucess">Event entry has been added to calendar…</string>
+    <string name="event_calendar_remove_event_success">Event entry has been removed from calendar…</string>
+    <string name="event_confirmation_delete_event">Delete event?</string>
+    <string name="event_confirmation_delete_photo">Delete photo?</string>
+    <string name="event_confirmation_delete_event_calendar_entry">Delete event calendar entry?</string>
+    <string name="event_confirmation_add_event_calendar_entry">Add event calendar entry?</string>
+
+    <string name="contact_picker_navbar_title">Pick a Contact</string>
+    <string name="contact_picker_filter_placeholder">Filter contacts...</string>
+    <string name="contact_picker_no_contacts">No contacts found...</string>
+    <string name="contact_picker_requires_sms_permission">Operation requires SMS permissions…</string>
+
+    <string name="event_sharer_sms_from">From:</string>
+    <string name="event_sharer_sms_to">To:</string>
+    <string name="event_sharer_sms_successful">Successfully sent SMS</string>
+
+    <string name="action_confirmation_positive">Yes</string>
+    <string name="action_confirmation_negative">No</string>
+    <string name="action_confirmation_cannot_be_undone">This action can not be undone.</string>
+    <string name="action_confirmation_can_be_undone">This action can be undone.</string>
+</resources>
